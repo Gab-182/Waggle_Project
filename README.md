@@ -12,3 +12,7 @@ Waggle Project repository! This Power BI report is designed for Waggle, a pet te
 
 
 ![Screenshot 3](https://github.com/Gab-182/Waggle_Project/assets/83855149/d7d37046-879d-47c0-9171-638d8df5b921)
+
+
+
+<img width="628" alt="Screenshot 2024-01-20 at 4 10 40 PM" src="https://github.com/Gab-182/Waggle_Project/assets/83855149/8d396df2-d8ae-49dd-8816-35ea034c27df">
